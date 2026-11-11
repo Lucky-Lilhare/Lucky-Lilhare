@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven B.Tech graduate specializing in data analytics and automated web development, with hands-on experience deploying data-driven insights using Python, SQL, and advanced visualization tools. Adept at building end-to-end full-stack web applications by leveraging AI-powered frontend and backend frameworks to streamline data delivery. Proven track record of translating complex datasets and behavioral patterns into actionable business solutions and high performance technical projects.
+MERN Stack Developer at Gamotech Pvt. Ltd. | Building scalable web apps & real-time experiences | React • Node • Express • MongoDB • TypeScript
 
 
 ## 🌐 Socials:
